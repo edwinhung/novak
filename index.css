@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+  text-decoration: indigo underline;
+  letter-spacing: 2px;
+}
+
+h2:hover {
+  color: #219ebc;
+}
+
+p::selection {
+  color: #415a77;
+}
