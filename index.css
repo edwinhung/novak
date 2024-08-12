@@ -11,3 +11,21 @@ h2:hover {
 p::selection {
   color: #415a77;
 }
+
+main {
+  font-size: 25px;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+p {
+  font-size: 0.8em;
+}
+
+button {
+  font-size: 1em;
+  padding: 0 1em;
+  border-radius: 0.8em;
+}
