@@ -2,6 +2,8 @@ h1 {
   text-align: center;
   text-decoration: indigo underline;
   letter-spacing: 2px;
+  margin-bottom: 0;
+  font-weight: 500;
 }
 
 h2:hover {
@@ -14,6 +16,12 @@ p::selection {
 
 main {
   font-size: 25px;
+  margin: 0 auto;
+  width: 60%;
+}
+
+body {
+  font-family: Roboto, sans-serif;
 }
 
 h2 {
@@ -22,6 +30,7 @@ h2 {
 
 p {
   font-size: 0.8rem;
+  font-weight: 300;
 }
 
 body {
